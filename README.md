@@ -1,0 +1,1 @@
+I was thinking of trying to implementing some computational geometry algorithms in CUDA using pycuda. Really I was just thinking about doing jarvis' convex hull algorithm, idk what i'll do after that.
